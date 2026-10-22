@@ -1,7 +1,7 @@
 # 👋 Hi, I'm AKIRA KUN
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF00D4&height=120&section=header&text=AKIRA KUN&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF00D4&height=120&section=header&text=AKIRAKUN&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
 ---
