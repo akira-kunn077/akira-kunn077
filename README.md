@@ -19,11 +19,11 @@
 
 <div align="center">
   
-![AKIRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=morrtalnerr-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![AKIRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=akira-kun077&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morrtalnerr-creator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira-kun077&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morrtalnerr-creator&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akira-kunn077&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
